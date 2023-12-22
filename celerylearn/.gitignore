@@ -1,0 +1,15 @@
+# db
+/db.sqlite3
+db.sqlite3
+db.sqlite3/
+
+# __pycache__
+/__pycache__
+/celerylearn/__pycache__/
+celerylearn/__pycache__/
+/celerylearnapp/__pycache__/
+celerylearnapp/__pycache__/
+/celerylearnapp/migrations/
+celerylearnapp/migrations
+celerylearnapp/migrations/
+celerylearnapp/__pycache__/
